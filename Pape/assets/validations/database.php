@@ -2,7 +2,7 @@
 $dbservername = "localhost";
 $dbusername = "root";
 $dbpassword = "";
-$dbname = "inqueritos";
+$dbname = "MyWebSite";
 
 $conn = mysqli_connect($dbservername, $dbusername, $dbpassword, $dbname);
 
